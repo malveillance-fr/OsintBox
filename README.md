@@ -129,7 +129,7 @@ Tools for DNS information retrieval.
 Tools for archiving and viewing social media data.
 | Tool               | Description                            | Link                           |
 |---------------------|----------------------------------------|--------------------------------|
-| [Social Media Archive](https://archive.org/) | Archive and access social media content. | [Website](https://archive.org/details/social_media_archive) |
+| [Social Media Archive](https://archive.org/) | Archive and access social media content. | [Website](https://archive.org/) |
 
 ---
 

@@ -1,3 +1,6 @@
+![banner](https://github.com/user-attachments/assets/fab0af3c-9bf5-4e3a-85d5-33b8d3df55c1)
+
+
 # **OSINT BOX 📦**
 
 Welcome to **OSINT BOX**, your ultimate toolkit for **Open Source Intelligence (OSINT)** research! Use these tools to collect valuable insights from a variety of public sources. Whether you're investigating individuals, domains, emails, phone numbers, or IP addresses, we've got you covered with a vast range of tools categorized for easy access.
